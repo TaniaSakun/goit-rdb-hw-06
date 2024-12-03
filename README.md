@@ -1,2 +1,2 @@
-# goit-rdb-hw-06
-The repository for the 6th GoItNeo Relational Databases homework
+# goit-rdb-hw-07
+The repository for the 7th GoItNeo Relational Databases homework
